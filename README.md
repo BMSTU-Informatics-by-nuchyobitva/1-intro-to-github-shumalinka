@@ -3,4 +3,4 @@
 Шумилина выполнила
 [Репозиторий](https://github.com/shumalinka/lab1/tree/main) для 4 пункта
 
-</br>![Пройденная обучалка](image.PNG)
+</br>![Пройденная обучалка](image.png)
